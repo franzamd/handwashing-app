@@ -15,7 +15,7 @@ https://franzamd.github.io/handwashing-app/
 [gh-pages](https://github.com/franzamd/handwashing-app/tree/gh-pages)
 [5-upload-github-pages](https://github.com/franzamd/handwashing-app/tree/5-upload-github-pages)
 
-# Sources
+## Sources
 
 - [blueprint css](https://blueprintcss.dev/)
 - [WHO Covid Image](https://www.who.int/gpsc/clean_hands_protection/en/)
